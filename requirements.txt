@@ -48,7 +48,7 @@ idna==2.9
 incremental==17.5.0
 mailer==0.8.1
 Markdown==3.2.1
-numpy==1.18.3
+numpy==1.22.0
 oauthlib==3.1.0
 pandas==1.0.3
 patterns==0.3
